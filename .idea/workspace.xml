@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f59d14b-ea4f-4994-a444-3e669fc33769" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dZtZzHHKcphVU6KnwUCOdnR94v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.ApplicationLogApplication">
+    <configuration name="ApplicationLogApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.azurehubs.applicationlog.ApplicationLogApplication" />
+      <module name="application-log" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.azurehubs.applicationlog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.azurehubs.productservice.ProductServiceApplication" />
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.azurehubs.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationLogApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f59d14b-ea4f-4994-a444-3e669fc33769" name="Default Changelist" comment="" />
+      <created>1592644502693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592644502693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="253" y="86" key="#Project_Structure" timestamp="1592644533237">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="253" y="86" key="#Project_Structure/0.23.1440.814@0.23.1440.814" timestamp="1592644533237" />
+    <state width="1137" height="247" key="GridCell.Tab.0.bottom" timestamp="1592647558750">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1592647558750" />
+    <state width="1137" height="247" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1592645989936" />
+    <state width="1137" height="247" key="GridCell.Tab.0.center" timestamp="1592647558748">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1592647558748" />
+    <state width="1137" height="247" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1592645989935" />
+    <state width="1137" height="247" key="GridCell.Tab.0.left" timestamp="1592647558746">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1592647558746" />
+    <state width="1137" height="247" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1592645989934" />
+    <state width="1137" height="247" key="GridCell.Tab.0.right" timestamp="1592647558749">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1592647558749" />
+    <state width="1137" height="247" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1592645989935" />
+    <state width="1137" height="247" key="GridCell.Tab.1.bottom" timestamp="1592647558753">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1592647558753" />
+    <state width="1137" height="247" key="GridCell.Tab.1.center" timestamp="1592647558752">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1592647558752" />
+    <state width="1137" height="247" key="GridCell.Tab.1.left" timestamp="1592647558752">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1592647558752" />
+    <state width="1137" height="247" key="GridCell.Tab.1.right" timestamp="1592647558753">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1137" height="247" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1592647558753" />
+    <state x="265" y="121" key="NewModule_or_Project.wizard" timestamp="1592644557023">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="265" y="121" key="NewModule_or_Project.wizard/0.23.1440.814@0.23.1440.814" timestamp="1592644557023" />
+  </component>
+</project>
